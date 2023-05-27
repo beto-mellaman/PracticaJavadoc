@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ajedrez","c":"LeerFichero","l":"convertir(double)"},{"p":"ajedrez","c":"LeerFichero","l":"LeerFichero()","u":"%3Cinit%3E()"},{"p":"ajedrez","c":"LeerFichero","l":"leerLinea(int)"}];updateSearchResults();
